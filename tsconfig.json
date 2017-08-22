@@ -11,7 +11,7 @@
         "outDir": "junk_js_files"
     },
     "include": [
-        "app/**/*.ts",
+        "app/**/*.ts"
     ],
     "exclude": [
         "node_modules",
