@@ -8,16 +8,10 @@
         "strictNullChecks": true,
         "sourceMap": true,
         "target": "es5",
-        "outDir": "junk_js_files",
-        "paths": {
-            "services": ["app/scripts/services/*"],
-            "inputDirectives": ["app/scripts/inputDirectivesModule/*"],
-            "common": ["app/scripts/common/*"]
-        }
+        "outDir": "junk_js_files"
     },
     "include": [
         "app/**/*.ts",
-        "DefinitelyTyped/*"
     ],
     "exclude": [
         "node_modules",
